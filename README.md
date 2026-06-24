@@ -1,17 +1,5 @@
-# activite1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+cet projet a ete concu dans le cadre de formation d'eclic.
+la premeiere version est:
+<img width="378" height="620" alt="image" src="https://github.com/user-attachments/assets/20c10023-75be-47ec-9560-2fc45ef47b73" />
+et la deuxieme version est:
+<img width="421" height="849" alt="image" src="https://github.com/user-attachments/assets/f5d11739-670e-43a0-ab64-20b92c0e7012" />
